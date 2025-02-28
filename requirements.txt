@@ -1,0 +1,3 @@
+jupyterlab==4.3.4
+pyspark==3.5.4  
+pandas==2.2.3  
